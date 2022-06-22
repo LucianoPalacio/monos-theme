@@ -30,7 +30,14 @@ svg:
   optimize: true
 # Build settings
 # theme: minima
-highlighter-theme: colorful
+highlighter-theme: colorful 
+#You can choice a "highlighter-theme" between:
+# autumn        # friendly      # pastie     
+# borland       # fruity        # perldoc
+# bw            # manni         # tango
+# colorful      # monokai       # trac
+# default       # murphy        # vim
+# emacs         # native        # vs
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
